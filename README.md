@@ -52,13 +52,8 @@ CarRental-fullstack/
 ├── README.md
 └── package-lock.json
 ```
-# ⚙️ 1. Clone the Repository
-```bash
-git clone https://github.com/Muhammad-Safwan12/CarRental-fullstack.git
-cd CarRental-fullstack
 
 # 🚀 2. Setup Backend (Server)
-
 ```
 cd server
 npm install
